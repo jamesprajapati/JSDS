@@ -1,0 +1,16 @@
+{
+  "name": "jsds",
+  "version": "1.0.0",
+  "description": "\"This project is all about the larning java script , alogrithem and Data structure concepts devloping small backend applications\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "JAVASCRIPT"
+  ],
+  "author": "Gaurav Prajapati",
+  "license": "ISC"
+}
